@@ -1,13 +1,17 @@
 <template>
-  <Nuxt />
+  <div>
+    <Nuxt />
+    <footer-component />
+  </div>
 </template>
 
 <script>
+import footerComponent from '../components/footerComponent.vue';
 export default {
-    name: "PortfolioOverview",
-}
+  components: { footerComponent },
+  name: "PortfolioOverview",
+};
 </script>
 
 <style>
-
 </style>

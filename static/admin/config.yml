@@ -39,6 +39,11 @@ collections:
         fields:
           - { label: "Titel", name: "title", widget: "string", required: false }
           - { label: "Inhalt", name: "body", widget: "markdown", required: false }
+          - label: Bilder
+            name: "images"
+            widget: "list"
+            fields:
+              - { label: "Bild", name: "image", widget: "image", required: false }
       
   - name: "portfolio"
     label: "Portfolio"
@@ -69,6 +74,7 @@ collections:
         widget: "list"
         fields:
           - { label: "Bild", name: "image", widget: "image", required: false }
+
   - name: "auszeichnungen"
     label: "Auszeichnungen"
     format: "frontmatter"
@@ -81,3 +87,19 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string", required: false }
       - { label: "Auszeichnung", name: "image", widget: "image", required: false }
+  
+  - name: "kontaktdaten"
+    label: "Kontaktdaten"
+    format: "json"
+    folder: "content/kontaktdaten"
+    create: true
+    sortable_fields: ["title"]
+    editor:
+      preview: false
+    fields:
+      - { label: "Firmenname", name: "company_name", widget: "string", required: false }
+      - { label: "Straße", name: "street", widget: "string", required: false }
+      - { label: "PLZ", name: "zip", widget: "string", required: false }
+      - { label: "Ort", name: "city", widget: "string", required: false }
+      - { label: "Telefon", name: "phone", widget: "string", required: false }
+      - { label: "E-Mail", name: "email", widget: "string", required: false }

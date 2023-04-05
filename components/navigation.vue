@@ -1,7 +1,7 @@
 <template>
   <div class="navigation">
     <div class="content-container navigation-container">
-      <klangbild-logo-short></klangbild-logo-short>
+      <nuxt-link to="/"><klangbild-logo-short height="50px" width="50px"></klangbild-logo-short></nuxt-link>
       <div class="navigation-items">
         <nuxt-link to="/" class="navigation-item">Home</nuxt-link>
         <nuxt-link to="/about" class="navigation-item">About</nuxt-link>

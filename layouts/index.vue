@@ -1,11 +1,13 @@
 <template>
   <div>
     <nuxt />
+    <footer-component />
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+};
 </script>
 
 <style>

@@ -1,5 +1,5 @@
 <template>
-  <div style="position: relative;">
+  <div style="position: relative;" class="portfolio-background">
     <img class="portfolio-bg" :src="backgroundImage" alt="background image" />
     <div class="content-container embed-container" style="display: none">
       <iframe

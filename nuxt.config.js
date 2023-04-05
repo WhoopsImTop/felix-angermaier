@@ -30,7 +30,7 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: [],
+  buildModules: ["nuxt-gsap-module"],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -38,6 +38,7 @@ export default {
     "@nuxtjs/axios",
     // https://go.nuxtjs.dev/content
     "@nuxt/content",
+    "@nuxtjs/markdownit"
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -48,6 +49,41 @@ export default {
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
+
+  markdownit: {
+    runtime: true, // Support `$md()`
+  },
+
+  //transition
+  pageTransition: {
+    name: "page",
+    mode: "out-in",
+    css: false,
+
+    beforeEnter(el) {
+      this.$gsap.set(el, {
+        opacity: 0,
+      });
+    },
+
+    enter(el, done) {
+      this.$gsap.to(el, {
+        opacity: 1,
+        duration: 1,
+        ease: "power2.inOut",
+        onComplete: done,
+      });
+    },
+
+    leave(el, done) {
+      this.$gsap.to(el, {
+        opacity: 0,
+        duration: 1,
+        ease: "power2.inOut",
+        onComplete: done,
+      });
+    },
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
