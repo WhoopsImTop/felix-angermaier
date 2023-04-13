@@ -5,7 +5,7 @@ portfolioVimeoLink: https://player.vimeo.com/video/231718117?h=3c68e6a161&title=
 title: 8 Videos (Akustik Version)
 category: music video
 customer: Wincent Weiss
-position: 1
+position: 2
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Et netus et
   malesuada fames ac turpis egestas maecenas pharetra. Placerat duis ultricies
