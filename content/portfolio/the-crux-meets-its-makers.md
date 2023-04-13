@@ -3,5 +3,5 @@ portfolioVideo: https://player.vimeo.com/external/227822011.sd.mp4?s=1ef80d5f692
 title: The Crux Meets Its Makers
 category: Commercial
 customer: Specialized Bicycles
-position: 0
+position: 3
 ---
