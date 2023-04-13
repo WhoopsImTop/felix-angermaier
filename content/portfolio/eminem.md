@@ -2,9 +2,9 @@
 portfolioImage: /img/bildschirmfoto-2023-02-28-um-13.54.42.png
 portfolioVideo: https://player.vimeo.com/external/227822011.sd.mp4?s=1ef80d5f692061aa25c48e2f82a094c537e4678d&profile_id=165
 portfolioVimeoLink: https://player.vimeo.com/video/231718117?h=3c68e6a161&title=0&byline=0&portrait=0
-title: 8 Videos (Akustik Version)
-category: music video
-customer: Wincent Weiss
+title: Vincent Weiss
+category: music videos
+customer: Universal Music
 position: 2
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Et netus et
