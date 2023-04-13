@@ -1,6 +1,6 @@
 ---
 portfolioImage: /img/bildschirmfoto-2023-02-28-um-13.54.42.png
-portfolioVideo: '"https://player.vimeo.com/video/702863894?h=33b8d70296&title=0&byline=0&portrait=0'
+portfolioVideo: ""
 portfolioVimeoLink: https://player.vimeo.com/video/231718117?h=3c68e6a161&title=0&byline=0&portrait=0
 title: EMINEM
 category: Musikvideo
