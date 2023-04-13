@@ -5,7 +5,7 @@ portfolioVimeoLink: https://player.vimeo.com/video/702863894?h=33b8d70296&title=
 title: Navalny
 category: Dokumentation
 customer: Kunde XYZ
-position: 0
+position: 1
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Et netus et
   malesuada fames ac turpis egestas maecenas pharetra. Placerat duis ultricies
