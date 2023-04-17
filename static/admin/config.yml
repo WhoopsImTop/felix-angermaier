@@ -103,3 +103,13 @@ collections:
       - { label: "Ort", name: "city", widget: "string", required: false }
       - { label: "Telefon", name: "phone", widget: "string", required: false }
       - { label: "E-Mail", name: "email", widget: "string", required: false }
+  
+  - name: "landing"
+    label: "Startseite"
+    format: "json"
+    folder: "content/landing"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Link zum Video", name: "videoURL", widget: "string", required: false }

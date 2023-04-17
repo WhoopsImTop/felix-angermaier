@@ -1,21 +1,22 @@
 <template>
   <div>
-    <landing />
+    <landing :videoUrl="landingData.videoURL" />
     <navigation />
     <portfolio-overview />
   </div>
 </template>
 
 <script>
-import landing from "../components/landing.vue";
-import portfolioOverview from '../components/portfolioOverview.vue';
+import portfolioOverview from "../components/portfolioOverview.vue";
 
 export default {
   components: { portfolioOverview },
   layout: "index",
   name: "IndexPage",
-  async asyncData({ store: { dispatch } }) {
+  async asyncData({ store: { dispatch }, $content }) {
     await dispatch("getPortfolioItems");
+    const landingData = await $content("landing", "index").fetch();
+    return { landingData };
   },
   created() {
     //scrollsnap to navigation on a small scroll in landing
