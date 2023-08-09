@@ -17,7 +17,7 @@
           ></video>
           <div class="video-overlay"></div>
           <div class="portfolio-item-content">
-            <h5>{{ portfolio.category }}</h5>
+            <h5 class="highlight">{{ portfolio.category }}</h5>
             <h2>{{ portfolio.title }}</h2>
             <h4>{{ portfolio.customer }}</h4>
           </div>
@@ -49,4 +49,7 @@ export default {
 </script>
 
 <style>
+h5.highlight {
+  color: #009ee3;
+}
 </style>
