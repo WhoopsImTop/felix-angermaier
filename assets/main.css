@@ -294,6 +294,10 @@ pad {
   object-fit: cover;
 }
 
+h5.highlight {
+  color: #009ee3;
+}
+
 .portfolioSwitcher {
   position: sticky;
   top: 0px;

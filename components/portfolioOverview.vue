@@ -49,7 +49,4 @@ export default {
 </script>
 
 <style>
-h5.highlight {
-  color: #009ee3;
-}
 </style>

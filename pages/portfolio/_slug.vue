@@ -5,7 +5,7 @@
       :background-image="portfolioItems.portfolioImage"
     ></viemo-player-handler>
     <div class="content-container text-container">
-      <h5>{{ portfolioItems.category }}</h5>
+      <h5 class="highlight">{{ portfolioItems.category }}</h5>
       <h2>{{ portfolioItems.title }}</h2>
       <h4>{{ portfolioItems.customer }}</h4>
 
