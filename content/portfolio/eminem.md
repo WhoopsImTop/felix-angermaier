@@ -2,7 +2,7 @@
 portfolioImage: /img/andri-ragettli-laax-voelkl-action-sports-klangbild-angermaier.jpg
 portfolioVideo: /img/andriragettli.mov
 portfolioVimeoLink: https://player.vimeo.com/video/217567382?h=aeb27c9083
-title: DONE! Andri Ragettli - Big Air
+title: DONE! Andri Ragettli
 category: Action, Sports
 customer: Laax, Völkl
 position: 2
