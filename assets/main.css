@@ -352,6 +352,13 @@ pad {
   flex-direction: row;
 }
 
+.portfolio-bg {
+  height: 95vh;
+  width: 100%;
+  display: flex;
+  object-fit: cover;
+}
+
 form {
   width: 60%;
   display: flex;
