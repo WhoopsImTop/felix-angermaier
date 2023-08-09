@@ -10,7 +10,7 @@
       <h4>{{ portfolioItems.customer }}</h4>
 
       <div class="grid-1-5">
-        <p class="description" v-html="portfolioItems.description"></p>
+        <p class="description" v-html="$md.render(portfolioItems.description)"></p>
         <div class="additional-info">
           <div
             class="info-item"
