@@ -3,14 +3,15 @@ portfolioImage: /img/wincent-weiss-frische-luft-music-video-klangbild-angermaier
 portfolioVideo: /img/wincentdrei.mov
 portfolioVimeoLink: https://player.vimeo.com/video/231718117?h=3c68e6a161
 title: Wincent Weiss - Frische Luft
+slug: wincent-weiss-frische-luft
 category: Music Video
 customer: Universal Music
 position: 4
 description: >-
-  Wincent Weiss - Frische Luft Das Debutalbum „Irgendwas gegen die Stille“ hier
-  anhören oder kaufen:\
+  Das Debutalbum „Irgendwas gegen die Stille“ hier anhören oder kaufen:
 
-  | Spotify <http://spoti.fi/1XsNuF0>\
+
+  \| Spotify <http://spoti.fi/1XsNuF0>\
 
   | Apple Music <http://www.umgt.de/FkO9au>\
 
