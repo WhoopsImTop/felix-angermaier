@@ -7,9 +7,26 @@ slug: navalny-documentary
 category: documentary
 customer: CNN Films, HBO max
 position: 1
-description: Poison always leaves a trail. The fly-on-the-wall documentary
-  follows Russian opposition leader, Alexey Navalny, through his political rise,
-  attempted assassination and search to uncover the truth.
+description: >-
+  Poison always leaves a trail. The fly-on-the-wall documentary follows Russian
+  opposition leader, Alexey Navalny, through his political rise, attempted
+  assassination and search to uncover the truth.
+
+
+  **Awards:** 
+
+
+  95th Academy Awards - Winner: Oscar - Best Documentary Feature\
+
+  BAFTA Awards (2023) - Winner: BAFTA Film Award - Best Documentary \
+
+  Cinema Eye Honors Awards (2023) - Winner: Cinema Eye Honors Award - Outstanding Production\
+
+  PGA Awards (2023) - Winner: PGA Award - Outstanding Producer of Documentary Motion Pictures\
+
+  Sundance Film Festival (2022) - Winner: Festival Favorite Award\
+
+  Sundance Film Festival (2022) - Winner: Audience Award, Best U.S. Documentary
 additionalInformation:
   - title: Director
     body: Daniel Roher
@@ -24,7 +41,7 @@ additionalInformation:
   - title: Studio
     body: CNN Films, HBO max
 images:
-  - image: /img/bildschirmfoto-2023-02-28-um-13.56.15.png
+  - image: /img/navalny-behind-the-scenes-team-klangbild-angermaier.jpg
   - image: /img/bildschirmfoto-2023-02-28-um-13.56.25.png
   - image: /img/bildschirmfoto-2023-02-28-um-13.56.37.png
   - image: /img/bildschirmfoto-2023-02-28-um-13.56.50.png
