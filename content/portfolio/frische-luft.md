@@ -3,6 +3,7 @@ portfolioImage: /img/klangbild-angermaier-navalny-oskar-2023.jpg
 portfolioVideo: /img/documentary_navalny_preview_klangbild_homepage_2023_h264_1080p.mov
 portfolioVimeoLink: https://player.vimeo.com/video/702863894?h=33b8d70296&title=0&byline=0&portrait=0
 title: NAVALNY
+slug: navalny-documentary
 category: documentary
 customer: CNN Films, HBO max
 position: 1
