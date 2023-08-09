@@ -38,7 +38,7 @@ export default {
     const portfolioItems = await $content("portfolio").where({
       slug: params.slug,
     }).fetch();
-    return { portfolioItems };
+    return { portfolioItems[0] };
   },
 };
 </script>
