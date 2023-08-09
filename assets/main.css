@@ -69,6 +69,10 @@ label {
   text-decoration: none;
 }
 
+.portfolio-link:hover {
+  cursor: pointer;
+}
+
 body {
   font-family: var(--main-font);
   background-color: var(--primary-light);

@@ -1,9 +1,9 @@
 <template>
   <div class="portfolioSwitcher">
     <div class="content-container portfolioSwitchContent">
-      <div @click="goToPrevPortfolio" class="prev"><h2>PREV</h2></div>
+      <div @click="goToPrevPortfolio" class="prev portfolio-link"><h2 style="display: flex; align-items: center;"><img src="/arrow-right.svg" style="transform: rotate(180deg);" width="50px" height="40px">PREV</h2></div>
       <nuxt-link class="closeBtn" to="/"><img src="/close.svg" width="50px"></nuxt-link>
-      <div @click="goToNextPortfolio" class="next"><h2>NEXT</h2></div>
+      <div @click="goToNextPortfolio" class="next portfolio-link"><h2 style="display: flex; align-items: center;">NEXT <img src="/arrow-right.svg" width="50px" height="40px"></h2></div>
     </div>
   </div>
 </template>
