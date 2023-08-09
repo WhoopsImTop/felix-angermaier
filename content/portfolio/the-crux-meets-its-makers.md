@@ -1,4 +1,5 @@
 ---
+portfolioImage: /img/wincent-weiss-frische-luft-music-video-klangbild-angermaier.jpg
 portfolioVideo: /img/wincentdrei.mov
 portfolioVimeoLink: https://player.vimeo.com/video/231718117?h=3c68e6a161
 title: Wincent Weiss - Frische Luft
