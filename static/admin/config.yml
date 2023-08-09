@@ -59,6 +59,7 @@ collections:
       - { label: "Portfolio Vorschau Video", name: "portfolioVideo", widget: "file", required: false }
       - { label: "Portfolio Vimeo Video", name: "portfolioVimeoLink", widget: "string", required: false }
       - { label: "Pojekttitel", name: "title", widget: "string", required: false }
+      - { label: "Projekt Permalink", name: "slug", widget: "string", required: false}
       - { label: "Kategorie", name: "category", widget: "string", required: false }
       - { label: "Kunde", name: "customer", widget: "string", required: false }
       - { label: "Position", name: "position", widget: "number", required: false, default: 9 }
