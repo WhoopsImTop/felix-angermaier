@@ -1,7 +1,12 @@
 ---
-portfolioVideo: https://player.vimeo.com/external/227822011.sd.mp4?s=1ef80d5f692061aa25c48e2f82a094c537e4678d&profile_id=165
+portfolioImage: /img/atomic-blonde-vfx-special-effects-klangbild-angermaier.jpg
+portfolioVideo: /img/atomicblonde.mov
 title: Atomic Blonde
-category: VFX ????
+category: VFX, Special Effects
 customer: Kunde ???
 position: 3
+description: T﻿ext ???
+additionalInformation:
+  - title: Skills ???
+    body: F﻿elix Angermaier
 ---
