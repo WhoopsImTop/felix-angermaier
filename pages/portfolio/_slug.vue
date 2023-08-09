@@ -35,7 +35,9 @@ export default {
   layout: "portfolio",
   name: "PortfolioOverview",
   async asyncData({ $content, params }) {
-    const portfolioItems = await $content("portfolio", params.slug).fetch();
+    const portfolioItems = await $content("portfolio").where({
+      slug: params.slug,
+    }).fetch();
     return { portfolioItems };
   },
 };
