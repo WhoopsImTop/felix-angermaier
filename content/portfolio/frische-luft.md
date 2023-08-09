@@ -1,6 +1,6 @@
 ---
-portfolioImage: /img/bildschirmfoto-2023-02-28-um-13.54.42.png
-portfolioVideo: https://player.vimeo.com/external/227822011.sd.mp4?s=1ef80d5f692061aa25c48e2f82a094c537e4678d&profile_id=165
+portfolioImage: /img/klangbild-angermaier-navalny-oskar-2023.jpg
+portfolioVideo: /img/documentary_navalny_preview_klangbild_homepage_2023_h264_1080p.mov
 portfolioVimeoLink: https://player.vimeo.com/video/702863894?h=33b8d70296&title=0&byline=0&portrait=0
 title: Navalny
 category: Dokumentation
