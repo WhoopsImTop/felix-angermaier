@@ -42,9 +42,13 @@ additionalInformation:
     body: CNN Films, HBO max
 images:
   - image: /img/navalny-behind-the-scenes-team-klangbild-angermaier.jpg
-  - image: /img/bildschirmfoto-2023-02-28-um-13.56.25.png
-  - image: /img/bildschirmfoto-2023-02-28-um-13.56.37.png
-  - image: /img/bildschirmfoto-2023-02-28-um-13.56.50.png
-  - image: /img/bildschirmfoto-2023-02-28-um-13.57.03.png
-  - image: /img/bildschirmfoto-2023-02-28-um-13.57.17.png
+  - image: /img/navalny-behind-the-scenes-camera-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-cinematography-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-makingof-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-operator-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-red-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-selfie-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-shooting-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-sideshot-klangbild-angermaier.jpg
+  - image: /img/navalny-behind-the-scenes-freiburg-klangbild-angermaier.jpg
 ---
